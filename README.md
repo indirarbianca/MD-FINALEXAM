@@ -1,6 +1,6 @@
 # UAS Model Deployment — Credit Score Classification
 
-**Nama:** Bian
+**Nama:** Indira Rubita Bianca
 **NIM:** 2802534166
 
 ## Deskripsi
